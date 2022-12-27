@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
 String apiKey = "U742JKMOH3YSP113";
-const char* ssid =  "Sama Khraim";     // Enter your WiFi Network's SSID
-const char* pass =  "samakhraim"; // Enter your WiFi Network's Password
+const char* ssid =  "***********";     // Enter your WiFi Network's SSID
+const char* pass =  "***********"; // Enter your WiFi Network's Password
 const char* server = "api.thingspeak.com";
  int analogInPin  = A0;    // Analog input pin
 int sensorValue;          // Analog Output of Sensor
